@@ -1,0 +1,2 @@
+# NaturalNumberCalculator
+Java语言编写的简易自然数计算的程序图形界面
